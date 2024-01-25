@@ -1,4 +1,4 @@
-# Lyra: a generative low bitrate speech codec 
+# Lyra: a generative low bitrate speech codec
 
 ## What is Lyra?
 
